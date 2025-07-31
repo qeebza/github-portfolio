@@ -3,3 +3,8 @@ logo: /assets/img/headshot.jpg
 #description text below img
 show_downlaods: true
 theme: jekyll-theme-minimal
+
+social:
+  github: https://github.com/qeebza
+  linkedin: https://www.linkedin.com/in/naqibzullazri/
+  email: naqibzull@gmail.com
