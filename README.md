@@ -16,3 +16,10 @@ Passionate software engineering student with a strong foundation in Python, Java
 ### Achievement
 
 ### Certification
+
+### Contact / Social Links
+
+
+### Language
+english
+malay
